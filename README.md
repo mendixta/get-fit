@@ -8,7 +8,7 @@ For this weeks assignment, we were asked to create a full functioning Fitness Tr
 * if the exercise is a cadrio excercise, then the distance traveled should be able to be tracked as well
 We were already provided with the front end code and it was up to us to create Mongo Database with a Mongoose Schema, along with Routes using Express. 
 
-The final result was this: 
+The final result was this: https://track-the-fit.herokuapp.com/
 
 # How To Run Fitness Tracker:
 The following commands should be used after cloning the app: 
