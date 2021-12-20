@@ -27,3 +27,6 @@ The only issue I could not solve was getting the "continue workout" button to wo
 <img src= '/screenshots/homePage.png'>
 
 <img src= '/screenshots/dashboard.png'>
+
+# Gif:
+![app](https://user-images.githubusercontent.com/87496972/146713346-7e1d7a05-9fff-40a6-ba39-088a9f8aa640.gif)
